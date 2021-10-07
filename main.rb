@@ -1,5 +1,5 @@
 # Milestone 0
-# group member: Owen Butler, Max Motz, Yuxuan Zhang
+# group member: Owen Butler, Max Motz,  Yuxuan Zhang
 # Project: TV Spotify
 # For Github Pushes:
 # Username: mmotztulane
